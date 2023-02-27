@@ -66,12 +66,13 @@ html , body{
 
 
 /*The Header Stufff*/
-.header img{
+a>img{
     border-radius: 50% ;
     height: 50px;
     width: 50px;
+    margin-top: -20px;
 }
-.header>img:hover{
+a>img:hover{
     box-shadow:2px 2px 2px 1px goldenrod;
 }
 .container .header{

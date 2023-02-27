@@ -15,7 +15,7 @@ html , body{
     left: 50% ;
     transform: translate(-50%,-50%);
     border-radius: 3.8%;
-    background-image: linear-gradient(180deg, #92472b 10%, transparent 10% ),url(/images/angelina-jollivet-mNEpmNiFdXs-unsplash.png) ;
+    background-image: linear-gradient(180deg, #92472b 10%, transparent 10% ),url(./images/angelina-jollivet-mNEpmNiFdXs-unsplash.png) ;
     background-position:bottom ;
     background-size: cover;
     background-repeat: no-repeat;
